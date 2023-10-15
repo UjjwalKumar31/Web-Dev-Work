@@ -1,0 +1,21 @@
+/* Write your code here: */
+
+h1, h2 {
+    color: blueviolet;
+}
+
+.box > .done{   /* Child Selector --> also .box > p */
+    color: firebrick;
+}
+
+.box li {   /* Decendent Selector --> .box li */
+    color: blue;
+}
+
+li.done {  /* Chaining Selector --> element.class#id.... */
+    color: seagreen;
+}
+
+ul p.done { /* Combination Selector --> ancestor chainingselector.... */
+    font-size: 0.5rem;
+}
