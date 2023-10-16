@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(132, 120, 120);
+}
+
+h1 {
+    color: yellow;
+}
+
+.big-title {
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 20px;
+    color: purple;
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+
+div {
+    text-align: center;
+    color: rgb(26, 2, 48);
+}
+
+.Animation{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.aroundMe{
+    height:200px;
+    width:200px;
+    position:absolute;
+    /* background-color: yellowgreen; */
+}
+
